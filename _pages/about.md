@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Liuchao Jin's Homepage!"
+title: "Welcome to Liuchao Jin's File page!"
 excerpt: "About me"
 author_profile: true
 redirect_from:
