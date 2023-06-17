@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jin's File-Page"
+title                    : "Jin's File Page"
 title_separator          : "-"
 name                     : &name "Liuchao Jin"
 description              : &description "PhD student @ CUHK"
